@@ -1,0 +1,9 @@
+opencv-python-headless
+torchvision
+pretrainedmodels
+albumentations
+tqdm
+tensorboardx
+keras
+joblib
+glog
